@@ -1,0 +1,22 @@
+# Setup
+title: Lanyon
+tagline: 'A Jekyll theme'
+description: 'Personal Site'
+baseurl: 'http://0.0.0.0:4000'
+url: 'http://0.0.0.0:4000'
+paginate: 5
+permalink: pretty
+
+# About/contact
+author:
+  name: Aureliano Yepez
+  url: https://twitter.com/mdo
+  email: yepez4845@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version: 1.1.0
+google_analytics_id: #UA-XXXX-Y
